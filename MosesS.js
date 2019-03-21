@@ -14,3 +14,4 @@ var someTotallyUncoolPerson = {
     favoriteHobby: 'eating dirt',
     favoriteAnime: 'Avatar the Last Airbender' // That's not even an anime bro 😂
 }
+
